@@ -1,4 +1,4 @@
-baseURL = "http://cvkrmarivee.netlify.app"
+baseURL = "https://test.cvkrm.in"
 disableLanguages = []
 disqusShortname = "cvkrmarivee"
 paginate = "6"
@@ -7,17 +7,17 @@ theme = "educenter-hugo"
 title = "Chinmaya Vidyalaya | Arivee"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 [Chinmaya Vidyalaya, Koramangala](https://www.cvkrm.in)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+copyright = "Copyright &copy; 2020 [Chinmaya Vidyalaya, Koramangala](https://www.cvkrm.in)"
+home = "Home"
+languageCode = "kn-in"
+languageName = "Kn"
 weight = 2
 [[menu.footer]]
 URL = "teacher"

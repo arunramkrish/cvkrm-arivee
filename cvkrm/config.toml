@@ -75,20 +75,20 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = "4th Block, Koramangala, Bangalore - 560034"
+author = "Chinmaya Vidyalaya"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "info@cvkrm.in"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "+91-80-25538341"
 top_header = true
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "12.934905"
+map_longitude = "77.6255787"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"

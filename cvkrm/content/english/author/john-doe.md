@@ -4,9 +4,9 @@ title: "John doe"
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-email: "email2@example.org"
+email: "email2@cvkrm.in"
 # portrait
-photo: ""
+image: ""
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"

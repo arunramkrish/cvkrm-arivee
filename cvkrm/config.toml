@@ -39,37 +39,51 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "academics"
-name = "Academics"
+URL = "course"
+name = "course"
 weight = 2
 [[menu.main]]
-URL = "facilities"
-name = "Facilities"
+hasChildren = true
+name = "Pages"
 weight = 3
 [[menu.main]]
-URL = "studentcouncil"
-name = "Student Council"
+URL = "teacher"
+name = "teacher"
+parent = "Pages"
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Pages"
+[[menu.main]]
+URL = "event"
+name = "event"
+parent = "Pages"
+[[menu.main]]
+URL = "scholarship"
+name = "scholarship"
+parent = "Pages"
+[[menu.main]]
+URL = "research"
+name = "research"
+parent = "Pages"
+[[menu.main]]
+URL = "blog"
+name = "blog"
 weight = 4
 [[menu.main]]
-URL = "lifeincv"
-name = "Life in CV"
+URL = "contact"
+name = "Contact"
 weight = 5
-[[menu.main]]
-URL = "gallery"
-name = "Gallery"
-weight = 6
-[[menu.main]]
-URL = "reachus"
-name = "Reach Us"
-weight = 7
-[[menu.main]]
-URL = "downloads"
-name = "Downloads"
-weight = 8
-[[menu.main]]
-URL = "parents"
-name = "Parents"
-weight = 9
+[params]
+address = "4th Block, Koramangala, Bangalore - 560034"
+author = "Chinmaya Vidyalaya"
+contact_form_action = "#"
+description = "This is meta description"
+email = "info@cvkrm.in"
+google_analitycs_id = ""
+logo = "images/logo.png"
+mobile = "+91-80-25538341"
+top_header = true
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
